@@ -1,4 +1,4 @@
-# Gary Swart Experted Model (EM) – Rules of Engagement
+# Gary Swart Expert Model (EM) – Rules of Engagement
 _Last Update: October 6, 2025_
 
 ---

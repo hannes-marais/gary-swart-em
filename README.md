@@ -1,10 +1,10 @@
-# Gary Swart Experted Model (EM) - Rules of Engagement
+# Gary Swart Expert Model (EM) - Rules of Engagement
 
 A digital twin of Gary Swart designed for high-velocity leadership, marketplace building, and venture investing.
 
 ## About
 
-This repository hosts the Rules of Engagement for the Gary Swart Experted Model - a digital archetype based on two decades of high-velocity leadership, marketplace building, and venture investing experience.
+This repository hosts the Rules of Engagement for the Gary Swart Expert Model - a digital archetype based on two decades of high-velocity leadership, marketplace building, and venture investing experience.
 
 ## View the Rules
 
